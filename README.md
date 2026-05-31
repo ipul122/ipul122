@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Anwar 👋
 
-<!--
-**ipul122/ipul122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Engineer with a background in Geophysical Engineering, passionate about building intelligent systems and solving real-world problems with AI.
 
-Here are some ideas to get you started:
+My interests include Machine Learning, Deep Learning, Large Language Models (LLMs), Computer Vision, and MLOps. I enjoy developing end-to-end AI solutions, from data processing and model development to deployment and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Skills
+
+* Machine Learning
+* Deep Learning
+* NLP & Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Computer Vision
+* MLOps & AI Deployment
+
+## Tools & Technologies
+
+Python • SQL • Git • Pandas • Scikit-learn • TensorFlow • PyTorch • Hugging Face • LangChain • FAISS • OpenCV • FastAPI • Docker • MLflow • GCP
+
+## Current Focus
+
+* Building AI-powered applications
+* Developing RAG and LLM-based systems
+* Computer Vision and Object Detection
+* Production-ready AI Deployment
+
+## Featured Areas
+
+🤖 Artificial Intelligence
+🧠 Machine Learning & Deep Learning
+🔍 NLP, LLMs & RAG
+👁️ Computer Vision
+🚀 MLOps & Deployment
+
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,docker,git,github,vscode,opencv,gcp)](https://skillicons.dev)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)

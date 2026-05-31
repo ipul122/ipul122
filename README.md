@@ -13,10 +13,6 @@ My interests include Machine Learning, Deep Learning, Large Language Models (LLM
 * Computer Vision
 * MLOps & AI Deployment
 
-## Tools & Technologies
-
-Python • SQL • Git • Pandas • Scikit-learn • TensorFlow • PyTorch • Hugging Face • LangChain • FAISS • OpenCV • FastAPI • Docker • MLflow • GCP
-
 ## Current Focus
 
 * Building AI-powered applications
@@ -32,10 +28,6 @@ Python • SQL • Git • Pandas • Scikit-learn • TensorFlow • PyTorch �
 👁️ Computer Vision
 🚀 MLOps & Deployment
 
-
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,docker,git,github,vscode,opencv,gcp)](https://skillicons.dev)
 
 ## Tech Stack
 

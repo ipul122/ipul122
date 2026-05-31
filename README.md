@@ -37,8 +37,6 @@ Python • SQL • Git • Pandas • Scikit-learn • TensorFlow • PyTorch �
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,docker,git,github,vscode,opencv,gcp)](https://skillicons.dev)
 
-## GitHub Stats
+## Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,mysql,mongodb,docker,gcp,git,github,fastapi,flask,vscode)](https://skillicons.dev)

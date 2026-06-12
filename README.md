@@ -1,8 +1,5 @@
 # Hi, I'm Anwar 👋
 
-Aspiring AI Engineer with a background in Geophysical Engineering, passionate about building intelligent systems and solving real-world problems with AI.
-
-My interests include Machine Learning, Deep Learning, Large Language Models (LLMs), Computer Vision, and MLOps. I enjoy developing end-to-end AI solutions, from data processing and model development to deployment and automation.
 
 ## Core Skills
 

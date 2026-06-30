@@ -1,7 +1,7 @@
 # Hi, I'm Anwar 👋
 
 
-## Core Skills
+## Core Skills - ongoing :v
 
 * Machine Learning
 * Deep Learning

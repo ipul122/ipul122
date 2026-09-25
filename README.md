@@ -23,11 +23,9 @@ Amidst the noise of data, I build precise system intelligence. My strength lies 
 
 <div align="center">
 
-![ML Core](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv)
 
-![Data Science](https://skillicons.dev/icons?i=sklearn,pandas,numpy,jupyter,fastapi)
+![ML Core](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,langchain,huggingface,qdrant,pinecone,ollama,fastapi,flask,mlflow,docker,n8n,gcp,pandas,numpy,jupyter,postgres,mysql,mongodb,git,github,githubactions,linux,bash,vscode&perline=7)
 
-![DevOps & Tools](https://skillicons.dev/icons?i=docker,gcp,git,github,flask,mysql,mongodb,vscode,linux,bash)
 
 </div>
 

@@ -16,7 +16,7 @@
 
 ##  About Me
 
-Amidst the noise of data, I build precise system intelligence. My strength lies in end-to-end machine learning and smart AI infrastructure—fully focused on robust data logic rather than outer design. My biggest goal is to create technology that is not just advanced, but genuinely impactful and solution-driven.
+Create technology that is not just advanced, but genuinely impactful and solution-driven.
 
 </div>
 
